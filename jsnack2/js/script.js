@@ -1,3 +1,6 @@
+// Chiedi un numero di 4 cifre all’utente nel prompt
+// e calcola la somma di tutte le cifre che compongono il numero.
+
 // Chiedo i numeri all'utente
 const userNumber = prompt('Dammi un numero di 4 cifre')
 
